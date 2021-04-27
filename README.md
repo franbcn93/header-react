@@ -2,7 +2,7 @@
 
 ![React with Smooth Scrolling](./images/cover.png)
 
-This project was bootstrapped with [See a render](https://github.com/franbcn93/header-react/settings/pages).
+This project was bootstrapped with [See a render](https://franbcn93.github.io/header-react/).
 
 ## To Run
 
